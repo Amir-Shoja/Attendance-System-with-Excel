@@ -3,9 +3,9 @@
 
 This section contains the main code for Attendance. Before running this code, two preliminary steps need to be performed.
 
-## ChangeName
+## NameList
 
-First, execute the ChangeName code to generate a list of names to be used in the Attendance code.
+First, execute the NameList code to generate a list of names to be used in the Attendance code.
 
 ```bash
 python ChangeName.py
