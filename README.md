@@ -8,7 +8,7 @@ This section contains the main code for Attendance. Before running this code, tw
 First, execute the NameList code to generate a list of names to be used in the Attendance code.
 
 ```bash
-python ChangeName.py
+python NameList.py
 ```
 
 ## EncodeGenerator
