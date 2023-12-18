@@ -1,4 +1,4 @@
-```
+
 # Attendance
 
 This section contains the main code for Attendance. Before running this code, two preliminary steps need to be performed.
